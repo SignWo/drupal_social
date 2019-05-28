@@ -11,7 +11,8 @@
         "cweagans/composer-patches": "^1.0",
         "drush/drush": "8.*@stable",
         "goalgorilla/open_social": "dev-8.x-4.x",
-        "goalgorilla/open_social_scripts": "dev-master"
+        "goalgorilla/open_social_scripts": "dev-master",
+        "drupal/coder": "8.3.4"
     },
     "require-dev": {
         "jcalderonzumba/gastonjs": "~1.0.2",
@@ -23,7 +24,6 @@
         "behat/mink-extension": "*",
         "behat/mink-goutte-driver": "*",
         "behat/mink-selenium2-driver": "*",
-        "drupal/coder": "8.3.1",
         "drupal/drupal-extension": "^3.4",
         "phpmd/phpmd": "@stable",
         "sebastian/phpcpd": "@stable",
